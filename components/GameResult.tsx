@@ -43,7 +43,7 @@ const GameResult: React.FC<GameResultProps> = ({ history, onRestart }) => {
         <div className="relative inline-block mb-2 mt-2 group cursor-default">
             {/* Owl Image */}
             <img 
-              src="https://raw.githubusercontent.com/Jia1985/wizard-math-duel/main/owl-v2.png" 
+              src="/owl-v2.png" 
               alt="Magical Owl" 
               className="w-40 h-40 drop-shadow-lg transform group-hover:scale-110 transition-transform duration-300"
             />
